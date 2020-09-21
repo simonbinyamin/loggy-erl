@@ -16,4 +16,4 @@ run(Sleep, Jitter) ->
     worker:stop(A),
     worker:stop(B),
     worker:stop(C),
-    worker:stop(D)
+    worker:stop(D).
